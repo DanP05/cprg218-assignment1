@@ -1,0 +1,11 @@
+*{
+    box-sizing:border-box;
+}
+
+header{
+    background-color:#120323;
+}
+figcaption h2{
+    color: #120323
+
+}
